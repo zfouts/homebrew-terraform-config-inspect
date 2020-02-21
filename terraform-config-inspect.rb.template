@@ -1,5 +1,5 @@
 require 'rbconfig'
-class Terraform-Config-Inspect < Formula
+class TerraformConfigInspect < Formula
   desc ""
   homepage "https://github.com/zfouts/terraform-config-inspect"
   version "{{.Version}}"
